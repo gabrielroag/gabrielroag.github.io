@@ -1,6 +1,7 @@
 ## Welcome to Gabriel Aguilera's *website!!!*
 
 This is a test for my new website! 😬
+![](https://i.natgeofe.com/k/adad91b1-8192-4fb5-9501-8c3fa8cc5244/mountain-lion-on-rock_4x3.jpg)
 
 You can use the [editor on GitHub](https://github.com/gabrielroag/gabrielroag.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
