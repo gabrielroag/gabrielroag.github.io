@@ -1,7 +1,14 @@
-## Welcome to Gabriel Aguilera's *website!!!*
+## Welcome to Gabriel Aguilera's *website!*
+
+# What I'm doing
+Hello, my name is Gabriel. I study renewable energies at *Universidad Autónoma de Baja California Sur* and I'm currently learning **programming to solve environmental problems**, I've been having a really great time.
 
 This is a test for my new website! 😬
+
+Distribution model map for *Puma concolor
 ![](https://i.natgeofe.com/k/adad91b1-8192-4fb5-9501-8c3fa8cc5244/mountain-lion-on-rock_4x3.jpg)
+
+
 
 You can use the [editor on GitHub](https://github.com/gabrielroag/gabrielroag.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
